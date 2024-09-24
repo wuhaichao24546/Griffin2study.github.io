@@ -8,7 +8,7 @@
         name="d2-admin"/>
       <template slot="footer">
         <div class="page__btn-group">
-          <span @click="$open('https://github.com/wxiaoqi/Spring-Cloud-Platform')">Github</span>
+          <span @click="$open('https://github.com/wuhaichao24546/HiKunpeng')">Github</span>
         </div>
       </template>
     </d2-page-cover>
